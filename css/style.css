@@ -20,7 +20,8 @@ h6 {
 
 .education-entry,
 .work-entry,
-.project-entry {
+.project-entry,
+.online-entry {
   padding: 0 5%;
 }
 
@@ -200,7 +201,7 @@ span {
   margin: 0 5%;
 }
 
-#map-div {
+#mapDiv {
   height: 400px;
   width: 100%;
   padding-bottom: 5%;
